@@ -1,0 +1,76 @@
+div.wpforms-container-full .wpforms-form input[type="date"],
+div.wpforms-container-full .wpforms-form input[type="datetime"],
+div.wpforms-container-full .wpforms-form input[type="datetime-local"],
+div.wpforms-container-full .wpforms-form input[type="email"],
+div.wpforms-container-full .wpforms-form input[type="month"],
+div.wpforms-container-full .wpforms-form input[type="number"],
+div.wpforms-container-full .wpforms-form input[type="password"],
+div.wpforms-container-full .wpforms-form input[type="tel"],
+div.wpforms-container-full .wpforms-form input[type="text"],
+div.wpforms-container-full .wpforms-form input[type="time"],
+div.wpforms-container-full .wpforms-form input[type="url"],
+div.wpforms-container-full .wpforms-form input[type="week"],
+div.wpforms-container-full .wpforms-form select,
+div.wpforms-container-full .wpforms-form textarea {
+  background-color: transparent;
+  box-sizing: border-box;
+  border-radius: 2px;
+  color: #525252;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  display: block;
+  float: none;
+  font-size: 17px;
+  border: none;
+  border-bottom: 1px solid #8cd6c6;
+  padding: 16px 21px;
+  height: 38px;
+  width: 100%;
+  line-height: 1.3;
+  line-height: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0px;
+  border-color: rgba(140, 214, 198, 1);
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+/* New button styles */
+div.wpforms-container-full .wpforms-form input[type="submit"],
+div.wpforms-container-full .wpforms-form button[type="submit"] {
+  display: inline-block;
+  width: 30%;
+  height: 53px;
+  background-color: #525252;
+  border: none;
+  color: #ffffff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* New button hover styles */
+div.wpforms-container-full .wpforms-form input[type="submit"]:hover,
+div.wpforms-container-full .wpforms-form input[type="submit"]:active,
+div.wpforms-container-full .wpforms-form button[type="submit"]:hover,
+div.wpforms-container-full .wpforms-form button[type="submit"]:active,
+div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+div.wpforms-container-full .wpforms-form .wpforms-page-button:active {
+  background-color: #feb777;
+}
+
+/* GDPR Field Label */
+div.wpforms-container-full .wpforms-form .wpforms-field-label {
+  color: #525252;
+}
+
+/* GDPR Field Sub-Label */
+div.wpforms-container-full .wpforms-form .wpforms-field-label-inline {
+  color: #525252;
+  font-weight: 300;
+}

@@ -1,0 +1,218 @@
+.page-id-491.mkdf-light-header
+  .mkdf-page-header
+  > div:not(.mkdf-sticky-header)
+  .mkdf-main-menu
+  > ul
+  > li
+  > a
+  span.mkdf-item-inner
+  .mkdf-item-text:before,
+.page-id-491.mkdf-light-header.mkdf-header-style-on-scroll
+  .mkdf-page-header
+  .mkdf-main-menu
+  > ul
+  > li
+  > a
+  span.mkdf-item-inner
+  .mkdf-item-text:before {
+  background-color: #8cd6c6;
+}
+
+.mkdf-btn.mkdf-hovered .mkdf-btn-icon-holder {
+  -webkit-transform: translateX(5px);
+  transform: translateX(5px);
+}
+
+.mkdf-testimonial-author {
+  color: #feb777 !important;
+}
+
+.mkdf-testimonials-quotes {
+  color: #feb777 !important;
+}
+
+.mkdf-testimonial-text {
+  color: #525252 !important;
+}
+
+.mkdf-section-title {
+  color: FEB777 !important;
+}
+
+.mkdf-post-info-category {
+  color: #feb777 !important;
+}
+
+.mkdf-portfolio-content {
+  color: #525252 !important;
+}
+
+.mkdf-facebook-share {
+  color: #525252 !important;
+}
+
+.mkdf-widget-title {
+  color: #feb777 !important;
+}
+
+.mkdf-social-icon-widget-holder {
+  color: #feb777 !important;
+}
+
+.cat-item cat-item {
+  color: #feb777 !important;
+}
+
+.mkdf-fullscreen-menu-opener .mkdf-fullscreen-icon {
+  color: #feb777 !important;
+}
+
+.mkdf-mobile-header .mkdf-mobile-menu-opener a:hover,
+.mkdf-page-header
+  .mkdf-sticky-header
+  .mkdf-fullscreen-menu-opener
+  .mkdf-fullscreen-icon {
+  color: #feb777;
+}
+
+.mkdf-fullscreen-menu-opener.opened .mkdf-fullscreen-icon-close {
+  color: #feb777;
+}
+
+.mkdf-close-side-menu {
+  color: #feb777;
+}
+
+.mkdf-blog-list-holder .mkdf-item-info-section > div {
+  color: #feb777;
+}
+
+.mkdf-blog-list-holder.mkdf-boxes
+  .mkdf-blog-list-item-table-cell
+  .mkdf-section-title {
+  color: #feb777;
+}
+
+.mkdf-social-share-holder.mkdf-list li a {
+  color: #feb777;
+}
+
+.mkdf-post-info-category a:hover {
+  color: #8cd6c6 !important;
+}
+
+.mkdf-post-info-author a:hover {
+  color: #8cd6c6 !important;
+}
+
+.mkdf-sidebar a:hover {
+  color: #8cd6c6 !important;
+}
+
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-left
+  > div
+  a:hover,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-left
+  > div.mkdf-blog-like
+  a,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-left
+  > div.mkdf-post-info-comments-holder
+  a,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-left
+  > div.mkdf-post-info-date,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-right
+  > div
+  a:hover,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-right
+  > div.mkdf-blog-like
+  a,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-right
+  > div.mkdf-post-info-comments-holder
+  a,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-right
+  > div.mkdf-post-info-date,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-left
+  .mkdf-blog-btn-read-more,
+.mkdf-blog-holder
+  article
+  .mkdf-post-info-bottom
+  .mkdf-post-info-bottom-right
+  .mkdf-blog-btn-read-more {
+  color: #feb777 !important;
+}
+
+.mkdf-side-menu a.mkdf-close-side-menu span {
+  color: #feb777;
+}
+
+.mkdf-content .mkdf-content-inner > .mkdf-full-width > .mkdf-full-width-inner {
+  padding-top: 0;
+}
+
+.mkdf-value {
+  color: #feb777 !important;
+}
+
+.mkdf-price {
+  color: #feb777 !important;
+}
+
+.mkdf-mark {
+  color: #9e9e9e !important;
+}
+
+.mkdf-404-text {
+  color: #feb777 !important;
+}
+
+.mkdf-portfolio-list-holder-outer.mkdf-ptf-masonry
+  article
+  .mkdf-item-text-overlay {
+  background-color: rgba(82, 82, 82, 0.8);
+}
+
+.mkdf-testimonials .mkdf-slick-next,
+.mkdf-testimonials .mkdf-slick-prev {
+  color: #525252;
+}
+
+.mkdf-social-share-holder.mkdf-list li a:hover {
+  color: #8cd6c6;
+}
+
+.mkdf-portfolio-list-holder-outer.mkdf-ptf-gallery
+  article
+  .mkdf-item-text-overlay {
+  background-color: rgba(82, 82, 82, 0.8);
+}
+
+.mkdf-parallax-call-to-action .mkdf-pcta-title-holder .mkdf-pcta-title {
+  font-weight: 400;
+}
